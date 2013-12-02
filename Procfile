@@ -1,0 +1,1 @@
+web: forever dist/index.js

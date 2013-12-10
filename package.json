@@ -2,7 +2,7 @@
   "name": "codeship-test",
   "version": "0.0.0-2",
   "description": "No more than a test",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
